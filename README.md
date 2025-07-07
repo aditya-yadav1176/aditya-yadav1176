@@ -81,10 +81,3 @@ I'm always open to collaborating on meaningful and impactful tech projects.
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya-yadav1176&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
