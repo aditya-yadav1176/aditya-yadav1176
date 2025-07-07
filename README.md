@@ -73,7 +73,7 @@ I'm always open to collaborating on meaningful and impactful tech projects.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-yadav1176&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-yadav1176&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
   <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-yadav1176&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br>
