@@ -28,7 +28,6 @@
 ---
 
 ### 🌱 Currently Working On
-- Building **AI tools**  
 - Developing **real-time applications**  
 - Enhancing my **UI/UX design** skills  
 
