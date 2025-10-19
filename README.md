@@ -5,6 +5,10 @@
   I turn creative ideas and designs into real-world websites and applications that are fast, modern, and accessible.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya-yadav1176&label=Profile+Views&color=blue&style=flat" />
+</p>
+
 ---
 
 ### 🚀 Interests
