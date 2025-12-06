@@ -26,8 +26,8 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔹 **DreamSpaces** – An interior design showcase website with clean visuals  
-- 🔹 **Number Clicking Game** – A fun game featuring a timer and interactive logic  
+- **DreamSpaces** – An interior design showcase website with clean visuals  
+- **Number Clicking Game** – A fun game featuring a timer and interactive logic  
 
 ---
 
