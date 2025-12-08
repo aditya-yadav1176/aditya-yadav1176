@@ -1,39 +1,55 @@
-<h1 align="center">👋 Hi, I'm Aditya Yadav</h1>
-
+<!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
-  A <b>Frontend Developer</b> passionate about building clean, responsive, and user-friendly web interfaces.<br>
-  I turn creative ideas and designs into real-world websites and applications that are fast, modern, and accessible.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Aditya%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h3 align="center">Frontend Developer • UI/UX Enthusiast • Learner</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-yadav1176&label=Profile+Views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&color=1E3A8A&lines=I+build+clean+and+modern+web+interfaces.;Passionate+about+Frontend+Development.;Turning+ideas+into+real+projects." />
 </p>
 
 ---
 
-### 🚀 Interests
-- 💡 Creating smart and intuitive web applications  
-- 🤖 Exploring AI-powered tools & automation  
-- 🧠 Learning new tech stacks and frameworks  
-- 🌐 Designing meaningful digital experiences with a focus on UX  
+## 👨‍💻 About Me
+I am **Aditya Yadav**, a passionate *Frontend Developer* focused on creating clean, responsive, and user-friendly digital experiences.
+
+- 🔭 Currently improving my **UI/UX** and **JavaScript** skills  
+- 🚀 Learning **real-time applications**, **React**, and **Backend Development**  
+- 🎯 Building projects that solve real problems  
+- 💡 Inspired by minimal, modern, and functional designs  
 
 ---
 
-### 💻 What I Do
-- ✨ Develop sleek and interactive UIs using **HTML**, **CSS**, and **JavaScript**  
-- 🎨 Focus on modern UI/UX design, accessibility, and performance  
+## 🧠 Skills & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,c,cpp,figma,vscode" />
+</p>
 
 ---
 
-### 🌟 Featured Projects
-- **DreamSpaces** – An interior design showcase website with clean visuals  
-- **Number Clicking Game** – A fun game featuring a timer and interactive logic  
+## 📌 Featured Projects
+### 🔹 **Adyspace** – Interior Design Showcase  
+A clean, modern website displaying interior projects with a smooth UI.
+
+### 🔹 **Number Clicking Game**  
+A fun interactive game with timer logic and engaging UI.
 
 ---
 
-### 🌱 Currently Working On
-- Developing **real-time applications**  
-- Enhancing my **UI/UX design** skills  
+## 👁️ Visitor Counter
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aditya-yadav1176&label=Profile+Views&color=1e3a8a&style=flat" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/aditya-yadav117"><img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/y.aditya117"><img src="https://img.shields.io/badge/Instagram-D52E80?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:iamaditya1176@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
@@ -42,41 +58,4 @@ I'm always open to collaborating on meaningful and impactful tech projects.
 
 > 💡 _"I believe great user experiences start with clean code and creative design."_
 
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/y.aditya117" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/aditya-yadav117" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:iamaditya1176@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-yadav1176&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
+Thanks for visiting my profile! 😊
