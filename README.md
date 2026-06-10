@@ -101,15 +101,6 @@ A lightweight document management application for creating and organizing notes.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditya-yadav1176&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-yadav1176&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
