@@ -47,23 +47,13 @@ Currently expanding into backend systems, modern engineering workflows, and cros
 
 ---
 
-# Tech Stack
+# 🛠️ Languages & Tools I Have Worked With
 
-### Languages
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nodejs,c,cpp,python,git,github,vercel,vscode,figma&theme=dark&perline=5" />
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode"/>
+</div>
 
 ---
 
