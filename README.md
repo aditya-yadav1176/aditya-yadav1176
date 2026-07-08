@@ -117,7 +117,7 @@ Minimal document organization experience.
 
 | Category | Details |
 |---|---|
-| Stack | HTML · CSS · JS |
+| Stack | React · Tailwind CSS · Framer Motion |
 | Scale | Lightweight |
 | Performance | Fast |
 | Security | Browser Storage |
