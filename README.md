@@ -1,178 +1,178 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:0F172A,35:1E293B,70:0F766E,100:134E4A&text=Aditya%20Yadav&fontSize=50&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20Learner&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,40:134E4A,75:0F766E,100:14B8A6&text=Aditya%20Yadav&fontSize=50&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Learner&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3200&pause=1000&center=true&vCenter=true&width=900&color=14B8A6&lines=Turning+Ideas+Into+Real+Products;Frontend+Engineering+%7C+Modern+Interfaces;Responsive+UX+%7C+Clean+Architecture;Learning+React+Native+%7C+Backend+%7C+Python;Open+For+Frontend+Internships"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=27&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=2DD4BF&lines=Turning+Ideas+Into+Real+Products;Building+Modern+Web+Experiences;React+%7C+TypeScript+%7C+Tailwind;Learning+Backend+%7C+Python+%7C+React+Native;Open+For+Web+Development+Internships"/>
 
+<br/>
 
 <a href="https://yadavaditya.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aditya-yadav117/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:iamaditya1176@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/aditya-yadav1176">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 <br/>
 
-![](https://img.shields.io/badge/Mumbai,_Maharashtra-1E293B?style=flat-square)
+<img src="https://img.shields.io/badge/Mumbai%2C%20Maharashtra-134E4A?style=flat-square"/>
 
 </div>
 
 ---
 
-# About
+# 👋 About Me
 
-Frontend Developer focused on transforming ideas into polished and usable products.
+I'm a **Web Developer and final-year Information Technology student** who enjoys turning ideas into useful, polished, and responsive products.
 
-I enjoy building responsive experiences with clean architecture, strong user experience, thoughtful themes, and production-ready deployment workflows.
+I like working across the full product-building process — from **UI and interaction design to implementation, deployment, and iteration**.
 
-Currently expanding into backend systems, modern engineering workflows, and cross-platform application development.
+Currently focused on:
 
-### Open To
+* 🌐 Modern web development
+* 🎨 Building clean, responsive user interfaces
+* 🚀 Shipping and deploying real products
+* 🧠 Learning backend development and Python
+* 📱 Exploring React Native
+* 🤝 Looking for web development internship opportunities
 
-- Frontend Internships  
-- Product Development  
-- Open Source Collaboration  
-- Building Real-World Applications  
+> **Building products that are useful, intuitive, and impactful.**
 
 ---
 
-# 🛠️ Languages & Tools I Have Worked With
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,nodejs,c,cpp,python,git,github,vercel,vscode,figma&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,c,cpp,git,github,vercel,vscode&theme=dark&perline=7"/>
 
 </div>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-<details>
-<summary><b>🎬 Kino — Movie Discovery Platform</b></summary>
+### 🎬 Kino
 
-<br/>
+**Movie discovery platform built around a simple goal: make finding something to watch easier.**
 
-Movie exploration platform focused on speed, usability, and production deployment.
+React-based movie discovery experience with search, browsing, watchlists, responsive layouts, and a focus on smooth user interaction.
 
-| Category | Details |
-|---|---|
-| Stack | React · TypeScript · Tailwind · TMDB |
-| Scale | SPA Architecture |
-| Performance | Optimized Rendering |
-| Security | Client Validation |
-| Impact | Better movie discovery |
-| Repository | github.com/aditya-yadav1176/kino |
+**Built with:** React · TypeScript · Tailwind CSS · TMDB API
 
-#### Highlights
-
-- Advanced Search  
-- Watchlist System  
-- Responsive UI  
-- Reusable Components  
-- Automatic Deployment  
-
-🌐 https://watchkino.vercel.app/
-
-</details>
-
-
-<details>
-<summary><b>📍 Real-Time Device Tracker</b></summary>
-
-<br/>
-
-Live synchronization platform using event-driven architecture.
-
-| Category | Details |
-|---|---|
-| Stack | Node · Express · Socket.IO |
-| Scale | Multi-client |
-| Performance | Real-Time |
-| Security | Controlled State |
-| Impact | Device Tracking |
-
-🌐 https://real-time-device-tracker-zmp2.onrender.com/
-
-</details>
-
-
-<details>
-<summary><b>📝 Docs Mini App</b></summary>
-
-<br/>
-
-Minimal document organization experience.
-
-| Category | Details |
-|---|---|
-| Stack | React · Tailwind CSS · Framer Motion |
-| Scale | Lightweight |
-| Performance | Fast |
-| Security | Browser Storage |
-| Impact | Organized Notes |
-
-🌐 https://aditya-yadav1176.github.io/Docs-Mini-App/
-
-</details>
+🌐 **Live:** https://watchkino.vercel.app/
+<br>
+💻 **Code:** https://github.com/aditya-yadav1176/kino
 
 ---
 
-# Experience
+### 🕊️ Pigeon
+
+**A fast way to move files between your phone and computer without using messaging apps or email.**
+
+Designed around a simple flow — open, drop, share the code, and transfer.
+
+The project focuses heavily on practical UX, temporary file sharing, multi-file transfers, and a lightweight experience.
+
+**Built with:** React · TanStack Start · Tailwind CSS · FastAPI
+
+🌐 **Live:** https://usepigeon.vercel.app/
+<br>
+💻 **Code:** https://github.com/aditya-yadav1176/pigeon
+
+---
+
+### 🔗 Refova
+
+**A platform for discovering, organizing, and sharing referral links and codes.**
+
+Built to make referral sharing less scattered by giving users a dedicated place to find useful referrals and share their own.
+
+**Built with:** React · Tailwind CSS · JavaScript
+
+🌐 **Live:** https://refova.vercel.app/
+<br>
+💻 **Code:** https://github.com/aditya-yadav1176/refova
+
+---
+
+### ☀️ ApnaSolar
+
+**Solar planning and analysis platform focused on making rooftop solar decisions easier.**
+
+The project explores a workflow where users can provide their location, roof information, photos, and electricity usage to understand potential solar setups, savings, and ROI.
+
+Currently being developed as a **major project**.
+
+**Exploring:** React · Firebase · AI-assisted analysis · Maps · Solar estimation
+
+---
+
+# 🛠️ What I'm Building
+
+### Current
+
+* 🎬 **Kino** — improving the movie discovery experience
+* 🕊️ **Pigeon** — building a practical phone-to-PC file transfer workflow
+* 🔗 **Refova** — developing a referral discovery platform
+* ☀️ **ApnaSolar** — working on a solar planning and analysis product
+
+### Learning
+
+* 🐍 Python
+* ⚙️ Backend development
+* 📱 React Native
+* 🚀 Better deployment workflows
+* 🔍 SEO & web performance
+
+---
+
+# 💻 How I Like To Build
+
+I enjoy projects where I can go beyond simply writing UI.
+
+My usual workflow is:
+
+**Idea → Interface → Build → Test → Deploy → Iterate**
+
+I use modern development tools and AI-assisted workflows to move faster, but I care about understanding and maintaining the code behind the product.
+
+---
+
+# 📌 Experience
 
 ### Independent Developer
 
 **2024 — Present**
 
-Building and shipping frontend products with focus on responsiveness, UX, maintainability, and product thinking.
+Building and experimenting with web products, personal projects, and real-world applications.
 
-#### Scope
+Focus areas:
 
-- Frontend Architecture  
-- Responsive Systems  
-- Deployment  
-- Product Design  
-- Iterative Development  
-
----
-
-# Current Focus
-
-Learning:
-  - React Native
-  - Python
-  - Backend
-
-Building:
-  - Kino New Features
-  - Become (Game)
-
-Exploring:
-  - Deployment
-  - Medium
-  - SEO Friendly Websites
-  - Beyond Web Development
-
-Open_To:
-  - Frontend Internship
-
+* Web architecture
+* Responsive UI
+* Component-based development
+* Product-focused design
+* Deployment
+* Continuous iteration
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Connect With Me
 
 <br/>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/aditya-yadav117/">
 <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin"/>
